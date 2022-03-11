@@ -7,3 +7,8 @@ data_visualization_workspace/bin
 data_visualization_workspace/include
 data_visualization_workspace/lib
 data_visualization_workspace/data
+data_visualization_workspace/pyvenv.cfg
+math_statistics_workspace/bin
+math_statistics_workspace/include
+math_statistics_workspace/lib
+math_statistics_workspace/pyvenv.cfg
