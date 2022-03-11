@@ -3,3 +3,7 @@ data_preparation_workspace/bin
 data_preparation_workspace/include
 data_preparation_workspace/lib
 data_preparation_workspace/pyvenv.cfg
+data_visualization_workspace/bin
+data_visualization_workspace/include
+data_visualization_workspace/lib
+data_visualization_workspace/data
