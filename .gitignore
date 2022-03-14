@@ -12,3 +12,4 @@ math_statistics_workspace/bin
 math_statistics_workspace/include
 math_statistics_workspace/lib
 math_statistics_workspace/pyvenv.cfg
+math_statistics_workspace/data
